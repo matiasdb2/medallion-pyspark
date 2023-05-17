@@ -1,10 +1,8 @@
 <h1>Medallion Architecture con PySpark: Guía paso a paso</h1>
 
-<p align="center"><img src=https://i.imgur.com/Zs1FjlB.jpg, width=500px></p>
-
 <h2>Descripción</h2>
 
-¡Bienvenido al repositorio 'Medallion Architecture con Apache Spark en Databricks'! Aquí encontrarás una notebook detallada que te guiará paso a paso en la aplicación de la arquitectura Medallion utilizando Apache Spark en el entorno de Databricks, junto con el dataset necesario para trabajar.
+¡Bienvenido al repositorio 'Medallion Architecture con Apache Spark en Databricks'! Aquí encontrarás una notebook detallada que te guiará paso a paso en la aplicación de la arquitectura Medallion utilizando Apache Spark en el entorno de Databricks, junto con el dataset necesario para trabajar. En principio la notebook está adaptada para su uso en Google Colab: contiene el código para instalar y poder utilizar PySpark en la VM de Colab.
 
 <h2>Resumen</h2>
 
