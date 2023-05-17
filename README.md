@@ -8,7 +8,7 @@
 
 Este repositorio te proporciona una guía completa para aplicar la Medallion Architecture en tus proyectos de ETL (Extract, Transform, Load), utilizando el framework Apache Spark y Databricks. La 'Medallion Architecture' se compone de tres capas distintas: bronce, plata y oro; cada una con su propio propósito y funciones específicas.
 
-<h3>Capas de la Medallion Architecture</h3>
+<h2>Capas de la Medallion Architecture</h2>
 
 <b>Capa Bronze:</b> En esta capa, aprenderás cómo realizar la extracción de datos desde diferentes fuentes: como bases de datos, APIs y archivos, utilizando PySpark. Explorarás técnicas para manejar diferentes formatos y estructuras de datos, garantizando una ingesta confiable y eficiente.
 
@@ -30,7 +30,7 @@ Además de la aplicación de la Medallion Architecture, esta notebook también c
 
 <h2>Comenzando</h2>
 
-Para comenzar, simplemente clona o descarga la notebook desde este repositorio y ábrela en tu entorno de Databricks. Sigue los pasos detallados y los ejemplos proporcionados para comprender y aplicar la Medallion Architecture utilizando Apache Spark en Databricks.
+Para comenzar, simplemente clona o descarga la notebook desde este repositorio y ábrela en tu entorno de Databricks o Colab, junto con el archivo comprimido que contiene los dataset necesarios en formato CSV. Sigue los pasos detallados y los ejemplos proporcionados para comprender y aplicar la Medallion Architecture utilizando Apache Spark.
 
 <h2>Contribuciones:</h2>
 ¡Agradecemos las contribuciones de la comunidad! Si tienes ideas para mejorar los ejemplos existentes, agregar nuevas secciones a la notebook o sugerir mejores prácticas, no dudes en enviar pull requests o abrir issues. ¡Juntos, construyamos un recurso completo para la aplicación de la Medallion Architecture con Apache Spark en Databricks!
